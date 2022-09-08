@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/jekyll.json": "file:///workspaces/edu.github.io/_config.yml"
+    }
+}
